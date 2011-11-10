@@ -1,1 +1,3 @@
+## [Easy HTML5 Template] http://easyhtml5template.com
+
 Easy HTML5 Template is just a simple project I threw together to offer a less intimidating alternative to HTML5 Boilerplate. For big projects that require great performance and more features, I highly recommend you use HTML5 Boilerplate. But if you're a beginner who just wants something simple and easy to digest, this is the right template for you.
