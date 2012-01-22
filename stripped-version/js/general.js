@@ -1,8 +1,7 @@
-/*globals $ window document */
+/*globals $ */
 
-$(function () {
-	var s = null,
-	
+var s = null,
+
 	PrimaryNameSpace = {
 		settings : {
 			basicExample: $(".main"),
@@ -32,6 +31,7 @@ $(function () {
 
 	};
 
+$(function () {
 	PrimaryNameSpace.init();
-
+	PrimaryNameSpace.anotherMethod();
 });
