@@ -1,12 +1,11 @@
-/*globals $ window document */
+/*globals $ */
 // the line above helps JSLint ignore certain globals; keep it and customize it if you're using JSLint's "good parts" to check your scripts
 
 // The script below does essentially nothing other than define some nearly empty methods and a few settings for demonstration purposes
 // You can delete this whole thing, or do whatever you want with it, it's just a basic starting point that I've been using lately
 
-$(function () {
-	// variable for caching settings
-	var s = null,
+// variable for caching settings
+var s = null,
 
 	PrimaryNameSpace = {
 		// define your oft-used settings below
@@ -35,12 +34,12 @@ $(function () {
 			this.nextMethod();
 
 		},
-		
+
 		nextMethod: function () {
 			s = this.settings;
 			// do stuff here
 		},
-		
+
 		anotherMethod: function () {
 			s = this.settings;
 			// do more stuff here
@@ -49,7 +48,9 @@ $(function () {
 		// remember not to use a trailing comma after the last method is defined; you could leave a dummy method here to prevent that error
 	};
 
-	// This line initializes the whole thing; you could pass in some JSON data or some other object that needs to be worked with
-	PrimaryNameSpace.init();
+// The section below initializes the whole thing; you could pass in some JSON data or some other object that needs to be worked with, and call individual methods.
 
+$(function () {
+	PrimaryNameSpace.init();
+	PrimaryNameSpace.anotherMethod();
 });
