@@ -9,7 +9,7 @@ var s = null,
 	PrimaryNameSpace = {
 		// define your oft-used settings below
 		settings: {
-			basicExample: $(".main"),
+			basicExample: $('.main'),
 			nestedExample: {
 				first: true,
 				second: true,
@@ -18,7 +18,7 @@ var s = null,
 				fifth: ['one', 'two', 'three', 'four', 'five', 'six']
 			},
 
-			foo: "bar"
+			foo: 'bar'
 		},
 
 		// the method that initializes stuff
