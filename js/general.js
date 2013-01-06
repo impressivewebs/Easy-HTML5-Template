@@ -23,7 +23,7 @@ var s = null,
 
 		// the method that initializes stuff
 		init: function () {
-			/*	the line below can be included in each method to reference the settings 
+			/*	the line below is included to reference the settings 
 				without always having to type "this.settings" each time */
 			s = this.settings;
 			// using firebug you can view all settings with "console.log(s)";
@@ -35,12 +35,10 @@ var s = null,
 		},
 
 		nextMethod: function () {
-			s = this.settings;
 			// do stuff here
 		},
 
 		anotherMethod: function () {
-			s = this.settings;
 			// do more stuff here
 		}
 

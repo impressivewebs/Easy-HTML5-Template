@@ -22,11 +22,9 @@ var s = null,
 		},
 
 		nextMethod: function () {
-			s = this.settings;
 		},
 
 		anotherMethod: function () {
-			s = this.settings;
 		}
 
 	};
