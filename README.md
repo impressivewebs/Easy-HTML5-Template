@@ -4,7 +4,7 @@ Easy HTML5 Template is just a simple project I threw together to offer a less in
 
 ## MIT License
 
-Copyright © 2011 by Louis Lazaris
+Copyright Â© 2011 by Louis Lazaris
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
@@ -23,3 +23,5 @@ AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
+
+THANKS A BUNCH!
