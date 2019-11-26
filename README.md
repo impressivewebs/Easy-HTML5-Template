@@ -1,10 +1,10 @@
-# [Easy HTML5 Template](http://easyhtml5template.com)
+# [Easy HTML5 Template](https://www.impressivewebs.com/easy-html5-template/)
 
 Easy HTML5 Template is just a simple project I threw together to offer a less intimidating alternative to [HTML5 Boilerplate](http://html5boilerplate.com). For big projects that require great performance and more features, I highly recommend you use HTML5 Boilerplate. But if you're a beginner who just wants something simple and easy to digest, this is the right template for you.
 
 ## MIT License
 
-Copyright © 2011 by Louis Lazaris
+Copyright Â© 2011 by Louis Lazaris
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
