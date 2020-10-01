@@ -1,6 +1,6 @@
 # [Easy HTML5 Template](https://www.impressivewebs.com/easy-html5-template/)
 
-Easy HTML5 Template is just a simple project I threw together to offer a less intimidating alternative to [HTML5 Boilerplate](http://html5boilerplate.com). For big projects that require great performance and more features, I highly recommend you use HTML5 Boilerplate. But if you're a beginner who just wants something simple and easy to digest, this is the right template for you.
+Easy HTML5 Template is just a simple project I threw together to offer a less intimidating alternative to [HTML5 Boilerplate](http://html5boilerplate.com). For big projects that require great performance and more features, I highly recommend you to use HTML5 Boilerplate. But if you're a beginner who just wants something simple and easy to digest, this is the right template for you.
 
 ## MIT License
 
